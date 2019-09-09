@@ -1,2 +1,2 @@
 # ssm
-Solar Shading Modeller (PUB)
+Solar Shading Modeller
