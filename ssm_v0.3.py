@@ -20,6 +20,7 @@ from resizeimage import resizeimage
 
 # Begin image manipulation functions
 # These functions trace the input image into an array of azimuth and elevation values
+# Image manipulation functions with reference from PySolar (GPL v3)
 
 
 def squareImage(im):
